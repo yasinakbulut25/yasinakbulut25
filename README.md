@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 </div>
 
 ## My Featured Projects 🏆
-- [Tüm projelerimi, çalışmalarımı ve CV'mi inceleyebilirsiniz.](https://yasinakbulut.com)
-- [CV Oluşturma ve Özelleştirme Sistemi](https://cv.yasinakbulut.com)
-- [Kod Satırım | Yazılımcılar Forum Sitesi](https://kodsatirim.yasinakbulut.com)
+- [Tüm projelerimi, çalışmalarımı ve CV'mi inceleyebilirsiniz.](https://yasinakbulut.dev)
+- [CV Oluşturma ve Özelleştirme Sistemi](https://cv.yasinakbulut.dev)
+- [Kod Satırım | Yazılımcılar Forum Sitesi](https://kodsatirim.yasinakbulut.dev)
 - [Diyet Takibim | Danışan Takip Sistemi](https://diyettakibim.com)
 - [Esnaf Vitrinim | Firma Rehberi](https://esnafvitrinim.com)
 
