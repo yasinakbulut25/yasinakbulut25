@@ -1,12 +1,14 @@
-### Hello 👋, I'm Yasin Akbulut.
-  
-Frontend Developer with experience in building **scalable** and **maintainable** user interfaces using technologies such as **React**, **Next.js**, **Redux**, **Saga**, and **Styled Components**. Skilled in translating **design systems** into clean, intuitive interfaces and delivering consistent user experiences across platforms.
+### 👋 Hello, I'm Yasin Akbulut.
 
-At Jotform, a platform serving over 25 million users, I worked as part of the **Product team**, contributing to key features like **Push Notification**, **Copilot**, and **User Management** for the **No Code App Builder**, within a **monorepo architecture** shared across teams. I also took part in the development of Jotform AI Agents, creating dynamic email templates.
+I'm a **Frontend Developer** who builds scalable, maintainable, and user-centric web applications using modern tools and technologies like **React**, **Next.js**, **Redux**, **Saga**, **Styled Components**, and **Tailwind CSS**.
+
+Previously, I was part of the **Product team at Jotform**, a platform serving over **25 million users**, where I contributed to major product features within a shared **monorepo structure**. My work there focused on enhancing user experience, performance, and frontend scalability.
+
+I enjoy translating complex design systems into clean, intuitive UIs and I'm always exploring new technologies to improve how we build for the web.
 
 Outside of my professional role, I built and deployed personal web projects that generate passive income and strengthened my skills in end-to-end, scalable web development.
 
-### My Featured Projects 🏆
+### 🏆 My Featured Projects
 - [You can review all my projects, experiences and skills.](https://yasinakbulut.dev)
 - [You can review my current CV.](https://me.yasinakbulut.dev)
 - [Diyet Takibim | Customer Tracking System](https://diyettakibim.com)
@@ -17,7 +19,29 @@ Outside of my professional role, I built and deployed personal web projects that
 - [Personal Portfolio for IVF Specialist](https://arzuyurci.com/)
 - [Old version my personal portfolio.](https://v2.yasinakbulut.dev)
 
-### Contact Me ✨
+### ⚙️ Skills & Technologies
+
+**💻 Tech Stack**  
+`React` · `Next.js` · `Redux` · `Redux Saga` · `Context API` · `JavaScript` · `TypeScript`  
+`HTML5` · `CSS/SCSS` · `Styled Components` · `Tailwind CSS` · `Bootstrap` · `PHP (PDO)`  
+`UI Libraries` (e.g. Shadcn UI, Headless UI, NextUI, etc.)
+
+**🔌 API & Database**  
+`RESTful API Integration` · `Axios` · `JSON` · `Postman`  
+`MySQL` · `PhpMyAdmin`
+
+**🛠️ Tools & Deployment**  
+`Git` · `GitHub` · `Monorepo` · `ESLint` · `RDS` · `CPanel`  
+`Figma for Dev` · `Notion` · `Slack`  
+`Vercel` · `Netlify`
+
+**🧠 Workflow & Soft Skills**  
+`Agile / Scrum Methodology` · `Problem Solving` · `Team Collaboration`
+
+**🚀 Currently Learning**  
+`TypeScript` · `Vue.js`
+
+### ✨ Contact Me 
 **Linkedin:** [yasinakbulut](https://www.linkedin.com/in/yasinakbulut/) <br>
 **Email:** [akbulutyasin07@gmail.com](mailto:akbulutyasin07@gmail.com) <br>
  
